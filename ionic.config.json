@@ -1,0 +1,7 @@
+{
+  "name": "duly-noted",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
